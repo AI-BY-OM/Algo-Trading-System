@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+credentials.json
+secrets.json
+
+*.key
+*.pem
+
+node_modules/
+__pycache__/
+.vscode/
